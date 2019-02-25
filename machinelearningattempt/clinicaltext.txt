@@ -1,0 +1,377 @@
+               
+
+                   *** NOT YET COSIGNED ***                           
+
+ LOCAL TITLE: MEDICAL STUDENT/MULTIUSE 
+STANDARD TITLE: INTERNAL MEDICINE STUDENT NOTE 
+DATE OF NOTE: SEP 28, 2018@18:46     ENTRY DATE: SEP 28, 2018@18:46:50 
+      AUTHOR: EPSTEIN,INBAL SARAH  EXP COSIGNER: BEHDIN,MORVARID 
+     URGENCY:                            STATUS: UNSIGNED 
+
+HISTORY & PHYSICAL/ADMISSION ASSESSMENT  INPATIENT
+ 
+Date of Admission: 9/28/18
+
+Admission Diagnosis: L Nephrolithiasis w/ obstructive nephropathy 
+
+MEDICAL RECORD PATIENT ADMISSION ASSESSMENT
+ 
+CHIEF COMPLAINT/SUMMARY OF INDICATIONS FOR ADMISSION: Hematuria, L flank pain
+ 
+Hx of Present Illness: PATIENT is a 71 year 
+old MALE with PMH of T2DM with diabetic nephropathy, HTN, HLD, Morbid Obesity, 
+40 pack-year smoking hx, here for hematuria x1 day and L flank pain 6/10 x4mo. 
+Pain is 6/10, increased pain over time, burning/throbbing, some sideways 
+radiation, not exacerbated or relieved by anything, does not interfere with 
+sleep. Occasional burning with urination, no pain. For the past 2 years, 
+urinates 5-6 times per night, describes volume as "a lot." Endorses incomplete 
+emptying, denies difficulty starting stream, weak stream, or intermittent 
+stream. Denies nausea, vomiting, constipation, diarrhea, fevers.Notes possible 
+history of nephrolithiasis but unclear. 
+
+Patient also endorses unrelated episodes of "chest grabbing" x1mo with chills 
+and diaphoresis, no dizziness or syncope, resolving after 1.5 hours after 
+"drinking water," last couple of weeks. Episodes occur while "sitting, driving, 
+walking," unclear if worse with exertion or relieved with rest. 
+
+ED Course: In the ED, AF and VSS. pain controlled. WBC 14.8 and Cr 2.5 (from 
+baeline 1.3). UA remarkable only for rbcs. CT with left distal 7mm obstructing 
+ureteral stone with moderate left hydro and multiple left renal stones up to 
+1.7cm, left kidney also larger than right. Currently with no pain after toradol. 
+Patient ate at 4:30pm. Given 2L bolus.
+
+REVIEW OF SYSTEMS:
+General: Endorses fatigue, episodes of chills and diaphoresis. Denies weight 
+change
+HEENT: Poor vision in R eye due to cataracts, L eye s/p cataract surgery 4 ya. 
+Denies recent changes in hearing, sore throat, congestion, neck stiffness.
+CV: See HPI
+Pulmonary: Endorses nonproductive cough, SOB. Sleeps with 3 pillows under head.
+GI: No changes in appetite, nausea, vomiting, diarrhea, constipation.
+GU: See HPI
+Neuro: Endorses transient numbness and tingling on R upper and lower digits.
+MSK: R knee "tendon surgery." Denies joint pain. 
+ 
+ 
+PAST MEDICAL HISTORY:
+Computerized Problem List is the source for the following: 
+ 
+1. Need for Prophylactic Vaccination and              10/21/14  PETRARCA,LEE A 
+inoculation, Influenza - Need for prophyla 
+2. Disorder associated with well controlled type 2    11/30/15  PETRARCA,LEE A 
+diabetes mellitus (SNOMED CT 201000119106) 
+3. Benign essential hypertension                      04/04/18  0 
+4. Hyperlipidemia                                     10/19/17  0 
+5. H/O: depression                                    10/21/14  PETRARCA,LEE A 
+6. Knee pain                                          11/30/15  PETRARCA,LEE A 
+7. Bilateral age-related nuclear cataracts (SNOMED    02/04/16  COTE,MARY A 
+CT 678601000119100) 
+8. Cortical Senile Cataract                           10/28/14  COTE,MARY A 
+9. Disorders of refraction and accommodation          10/28/14  COTE,MARY A 
+10. Posttraumatic stress disorder                     04/04/18  0 
+11. Macular scar                                      06/23/15  COTE,MARY A 
+12. Diabetes mellitus type 2                          03/22/16  CHI,YIH-MING 
+13. Benign hypertensive heart disease and chronic     06/16/17  ANDERSON,JOAN G
+renal disease stage 3 
+14. Hyperlipidemia                                    06/16/17  ANDERSON,JOAN G
+15. PTSD - Post-traumatic stress disorder             06/16/17  ANDERSON,JOAN G
+16. Painless hematuria                                10/19/17  ANDERSON,JOAN G
+17. Hyperlipidemia due to type 2 diabetes mellitus    10/19/17  ANDERSON,JOAN G
+18. Morbid obesity                                    10/19/17  ANDERSON,JOAN G
+19. Proteinuria due to type 2 diabetes mellitus       10/19/17  ANDERSON,JOAN G
+20. Visual disturbance                                10/19/17  ANDERSON,JOAN G
+21. Persistent microscopic hematuria                  04/04/18  ANDERSON,JOAN G
+22. Chronic renal impairment due to type 2            04/04/18  ANDERSON,JOAN G
+diabetes mellitus 
+23. Continuous tobacco use                            08/01/18  ANDERSON,JOAN G
+
+MEDICATIONS:
+Active Outpatient Medications (including Supplies):
+ 
+                                                            Issue Date
+                                               Status       Last Fill
+     Active Outpatient Medications             Refills      Expiration
+=========================================================================
+1)   ACCU-CHEK AVIVA PLUS(GLUCOSE) TEST STRIP  ACTIVE       Issu:06-21-18
+       Qty: 150 for 90 days  Sig: USE TEST     Refills: 2   Last:09-11-18
+       STRIP AS DIRECTED .  TO BE USED WITH                 Expr:06-22-19
+       AVIVA METER ONLY.
+2)   ALCOHOL PREP PAD, MEDIUM  Qty: 200 for    ACTIVE       Issu:06-21-18
+       90 days  Sig: USE PAD     AS DIRECTED   Refills: 2   Last:09-11-18
+       PRIOR TO INJECTION                                   Expr:06-22-19
+3)   AMLODIPINE BESYLATE 10MG TAB  Qty: 90     ACTIVE       Issu:03-06-18
+       for 90 days  Sig: TAKE ONE TABLET BY    Refills: 2   Last:07-27-18
+       MOUTH DAILY FOR HIGH BLOOD PRESSURE                  Expr:03-07-19
+4)   AMOXICILLIN 500MG CAP  Qty: 23 for 7      ACTIVE       Issu:09-20-18
+       days  Sig: TAKE TWO CAPSULES BY MOUTH   Refills: 0   Last:09-20-18
+       NOW AND TAKE ONE CAPSULE THREE TIMES A               Expr:10-20-18
+       DAY FOR 7 DAYS UNTIL GONE FOR
+       INFECTION
+5)   ASPIRIN 81MG EC TAB  Qty: 120 for 90      ACTIVE       Issu:03-06-18
+       days  Sig: TAKE ONE TABLET BY MOUTH     Refills: 2   Last:07-27-18
+       DAILY TO PREVENT BLOOD CLOT                          Expr:03-07-19
+6)   ATORVASTATIN CALCIUM 80MG TAB  Qty: 90    ACTIVE (S)   Issu:08-01-18
+       for 90 days  Sig: TAKE ONE TABLET BY    Refills: 3   Last:10-16-18
+       MOUTH AT BEDTIME FOR CHOLESTEROL                     Expr:08-02-19
+7)   BUPROPION HCL 150MG 12HR SA TAB  Qty:     ACTIVE       Issu:08-01-18
+       180 for 90 days  Sig: TAKE ONE TABLET   Refills: 3   Last:08-01-18
+       BY MOUTH TWICE A DAY                                 Expr:08-02-19
+8)   CHOLECALCIFEROL (VIT D3) 5,000UNIT CAP    ACTIVE       Issu:03-06-18
+       Qty: 90 for 90 days  Sig: TAKE ONE      Refills: 2   Last:07-27-18
+       CAPSULE BY MOUTH DAILY                               Expr:03-07-19
+9)   CLOTRIMAZOLE 1% TOP CREAM  Qty: 30 for    ACTIVE       Issu:08-01-18
+       30 days  Sig: APPLY THIN FILM TO        Refills: 3   Last:08-01-18
+       AFFECTED AREAS TWICE A DAY AS NEEDED                 Expr:08-02-19
+       FOR FUNGAL INFECTION
+10)  DIVALPROEX 500MG 24HR (ER) SA TAB  Qty:   ACTIVE       Issu:08-01-18
+       90 for 90 days  Sig: TAKE ONE TABLET    Refills: 3   Last:08-01-18
+       BY MOUTH AT BEDTIME WITH FOOD                        Expr:08-02-19
+11)  GLIPIZIDE 10MG TAB  Qty: 180 for 90 days  ACTIVE       Issu:03-06-18
+       Sig: TAKE ONE TABLET BY MOUTH TWICE A   Refills: 2   Last:07-27-18
+       DAY BEFORE MEALS 30 MINUTES BEFORE A                 Expr:03-07-19
+       MEAL FOR DIABETES * DO NOT TAKE AT
+       BEDTIME
+12)  IBUPROFEN 600MG TAB  Qty: 30 for 7 days   ACTIVE       Issu:09-20-18
+       Sig: TAKE ONE TABLET BY MOUTH FOUR      Refills: 0   Last:09-20-18
+       TIMES A DAY AS NEEDED FOR DENTAL PAIN                Expr:10-20-18
+       * TAKE WITH FOOD OR MILK *
+13)  INSULIN NPH HUMAN 100 UNIT/ML NOVOLIN N   ACTIVE       Issu:04-04-18
+       Qty: 3 for 84 days  Sig: INJECT 16      Refills: 1   Last:07-27-18
+       UNITS UNDER THE SKIN EVERY 12 HOURS                  Expr:04-05-19
+       FOR DIABETES
+14)  LISINOPRIL 5MG TAB  Qty: 45 for 90 days   ACTIVE       Issu:08-01-18
+       Sig: TAKE ONE-HALF TABLET BY MOUTH      Refills: 3   Last:08-01-18
+       EVERY MORNING FOR HIGH BLOOD PRESSURE                Expr:08-02-19
+15)  MENTHOL/M-SALICYLATE 10-15% TOP CREAM     ACTIVE       Issu:08-01-18
+       Qty: 90 for 30 days  Sig: APPLY THIN    Refills: 3   Last:08-01-18
+       FILM TO AFFECTED AREAS TWICE A DAY AS                Expr:08-02-19
+       NEEDED FOR JOINT/MUSCLE PAIN
+16)  METFORMIN HCL 1000MG TAB  Qty: 180 for    ACTIVE       Issu:03-06-18
+       90 days  Sig: TAKE ONE TABLET BY MOUTH  Refills: 2   Last:07-27-18
+       TWICE A DAY ** TAKE WITH MEALS ** FOR                Expr:03-07-19
+       DIABETES
+17)  METOPROLOL TARTRATE 50MG TAB  Qty: 60     ACTIVE       Issu:08-01-18
+       for 30 days  Sig: TAKE ONE TABLET BY    Refills: 3   Last:08-01-18
+       MOUTH TWICE A DAY FOR BLOOD PRESSURE                 Expr:08-02-19
+18)  PRAZOSIN HCL 2MG CAP  Qty: 90 for 90      ACTIVE       Issu:08-01-18
+       days  Sig: TAKE ONE CAPSULE BY MOUTH    Refills: 3   Last:08-01-18
+       AT BEDTIME                                           Expr:08-02-19
+
+MEDICATION RECONCILIATION:
+Outpatient medications the patient is now taking were reconciled by review with 
+patient. My reconciliation of the medications is reflected in my orders. Patient 
+takes only the medications and/or supplements on the list above. My medical 
+reconciliation of any medications started, put on hold, or adjusted during this 
+hospitalization will be outlined in the Assessment and Plan portion of this 
+note.
+
+ADR/Allergies: Patient has answered NKA
+Additional ADRs and/or Allergies:
+ 
+SOCIAL HISTORY
+Alcohol use: Sober since 1986 (32 years). Heavy alcohol use prior
+Tobacco: Current smoker. 1 pack/day x 40 years
+Illicit drug use: Denies
+Marital/domestic status: Married, 2 daughters, 1 son, 2 grandkids
+Living situation: Lives at home with wife, children, and grandchildren. Retired, 
+previous truck driver, on SSI. 
+ 
+FAMILY HISTORY:
+F: “Heart disease” died at age 78
+M: Died at age 87, cause unknown
+2 siblings aged 61, 68, in good health
+
+PHYSICAL EXAMINATION
+Temp:98.5 F [36.9 C] (09/28/2018 15:49)
+Pulse:60 (09/28/2018 15:49)
+Resp:18 (09/28/2018 15:49)
+Blood Pressure:144/84 (09/28/2018 15:49)
+Height:68 in [172.7 cm] (10/19/2017 07:19)
+Weight:250 lb [113.6 kg] (08/01/2018 09:44)
+Pain:0 (09/28/2018 15:49)
+Body Mass Index: 38.1
+ 
+GENERAL: NAD, A&Ox3, pleasant
+HEENT: PERRLA, EOMI, anicteric sclera, MMM, OP clear. Neck supple, nontender, 
+without LAD.
+CV: Heart sounds distant. No murmurs, rubs, or gallops. JVD at base of neck with 
+bed at 45%. Hepatojugular reflex present. 
+PULM: Trace rales BL lower lobe. No wheezing or rhonci.
+GI: Protruberant. Soft, nontender, no hepatosplenomegaly, no masses
+SKIN: No rashes, erythema or ecchymosis noted
+EXTREMITIES: no clubbing, cyanosis, or edema, 2+ peripheral pulses throughout
+NEURO: Non Focal, grossly intact. Sensation to light touch grossly intact.
+
+ 
+DIAGNOSTIC STUDIES:
+Collection DT       Spec  WBC     HGB     HCT    PLATELE  MCV     MCH     MCHC 
+a 09/28/2018 14:43 BLOOD 14.85 H 15.1    45.0     213    87.4    29.3    33.6 
+COMMENTS:
+a. Differential performed by automated analysis.
+   No RBC variances detected by automated analysis.
+ NA:       141 mEq/L            (09/28/18 17:08) SERUM
+ K+:       4.5 mEq/L            (09/28/18 17:08) SERUM
+ CL:       104 mEq/L            (09/28/18 17:08) SERUM
+ CO2:      24 mEq/L             (09/28/18 17:08) SERUM
+ BUN:      42 mg/dl H           (09/28/18 17:08) SERUM
+ CREA:     2.59 mg/dL H         (09/28/18 17:08) SERUM
+ GLU:      168 mg/dL H          (09/28/18 17:08) SERUM
+ CA:       9.8 mg/dl            (09/28/18 17:08) SERUM
+No data available for MAGNESIUM
+ 
+No data available for PO4
+ 
+PROTEIN,TOTAL              4/4/18 07:52      6.8 
+ ALBUMLX:  4.0 G/dL             (04/04/18 07:52) SERUM
+ ALKPHOS:  53 IntUnit/L         (04/04/18 07:52) SERUM
+ TBIL:     0.5 mg/dL            (04/04/18 07:52) SERUM
+ AST:      20 IntUnit/L         (04/04/18 07:52) SERUM
+ ALT:      19 IntUnit/L         (04/04/18 07:52) SERUM
+PT (REC) - NONE FOUND
+PTT-FUTURA - NONE FOUND
+INR - NONE FOUND
+ APPEARA:  CLEAR    (09/28/18 14:43)
+ BILIRUB:  NEG      (09/28/18 14:43)
+ COLOR(U:  Yellow   (09/28/18 14:43)
+ HYALINE:  1        (02/24/16 07:37)
+ KETONES:  NEG      (09/28/18 14:43)
+ MUCOUS:   PRESENT  (09/28/18 14:43)
+ NITRITE:  NEG      (09/28/18 14:43)
+ PH:       5.0      (09/28/18 14:43)
+ PROTEIN:  100      (09/28/18 14:43)
+ RBC/HPF:  200      (09/28/18 14:43)
+ SP.GRAV:  1.017    (09/28/18 14:43)
+ SQ EPI:   <1       (09/07/17 08:33)
+ TR.EPTH:  <1       (09/07/17 08:33)
+ UR BLOD:  LG       (09/28/18 14:43)
+ UR.BACT:  RARE     (02/24/16 07:37)
+ URGLU:    50       (09/28/18 14:43)
+ URLEUKS:  NEG      (09/28/18 14:43)
+ UROBILI:  0.2-1.0  (09/28/18 14:43)
+ WBC/HPF:  1        (09/28/18 14:43)
+ A1C:      8.0 % H              (09/20/18 09:11) BLOOD
+
+ CHOL:     193      (09/07/17 08:33)   173      (04/04/18 07:52)
+ HDL:      36       (09/07/17 08:33)   33       (04/04/18 07:52)
+ LDL(CAL:  134      (09/07/17 08:33)   115      (04/04/18 07:52)
+ TRIG:     115      (09/07/17 08:33)   127      (04/04/18 07:52)
+ 
+IMAGING:
+CT Abdomen/Pelvis w/o contrast 9/28/18
+       Lung Bases: No acute or significant lung base finding.  Normal 
+       heart size. No pleural or pericardial effusion. 
+ 
+       Liver: The liver is normal in size.  No focal lesions. 
+ 
+       Gallbladder and Biliary Tree: Unremarkable 
+ 
+       Spleen: Unremarkable 
+ 
+       Pancreas: The pancreas is grossly normal in appearance. 
+ 
+       Adrenal Glands: Unremarkable 
+ 
+       Kidneys: Right kidney: The right kidney is slightly smaller in
+       size, in comparison to the left, with a grossly normal without
+       contour calculi or hydronephrosis.  There is a punctate
+       calcification suggestive of vascular etiology.  There are few
+       small renal hypodensities suggestive of renal cysts. 
+ 
+       Left kidney: The left kidney is enlarged with multiple large 
+       partially exophytic hypodense lesions compatible with renal 
+       cysts, some demonstrating thin peripheral calcification.  Largest 
+       left renal cyst with peripheral calcific calcification interpolar 
+       to lower pole region measuring 6.6 x 6.2 cm.  There is mild to 
+       moderate hydroureteronephrosis with perinephric and periureteral 
+       fat stranding.  There are multiple left renal calculi, largest 
+       measuring up to 1.7 cm in the lower pole with Houndsfield units 
+       measuring up to 1300.  There is an obstructive 0.7 cm renal 
+       calculus measuring 1124 HU  in the distal ureter just proximal to 
+       the UVJ 
+ 
+       Bladder: Bladder is underdistended limiting evaluation.  There is 
+       subtle fat density along the mucosa suggestive of chronic 
+       inflammation. 
+ 
+       Bowel: The stomach is grossly normal in appearance. Small bowel 
+       and colon are normal in caliber and distribution.  Normal 
+       appendix is visualized in the right lower quadrant without 
+       findings of appendicitis. 
+ 
+       Ascites: Absent 
+ 
+       Lymphadenopathy: No mesenteric, retroperitoneal or periportal 
+       lymphadenopathy. 
+ 
+       Abdominal Wall and Mesentery: Unremarkable. 
+ 
+       Vasculature: The visualized abdominal aorta is normal in caliber. 
+        There is atherosclerotic calcification of the aorta and its 
+       branches. Evaluation of abdominal and pelvic vessels is limited 
+       due to lack of intravenous contrast. 
+ 
+       Pelvic Organs: Prostate is enlarged. 
+ 
+       Musculoskeletal: No aggressive focal bony lesions, acute 
+       fractures or dislocation.   Multilevel degenerative changes noted 
+       in the visualized spine. 
+ 
+     Impression: 
+       Obstructive 0.7 cm left ureteral calculus causing mild to 
+       moderate left hydroureteronephrosis. Multiple additional left 
+       renal calculi measuring up to 1.7 cm.  Associated left 
+       perinephric fat stranding without evidence of abscess or capsular 
+       rupture. 
+ 
+       Additional chronic findings as above. 
+
+ 
+ASSESSMENT and TREATMENT PLAN:
+71 year old MALE with PMH of T2DM with diabetic nephropathy, HTN, HLD, Morbid Obesity, 40 pack-year smoking hx, here for hematuria x1 day and L flank pain admitted for obstructive nephropathy 2/2 ureteral stone 
+
+#Obstructive nephropathy 2/2 L nephrolithiasis- CT with 7mm L ureteral stone c/b 
+mild to moderate L hydronephrosis. AKI Cr 2.48 (baseline 1.3 per chart review)
+- Admit to medicine 
+- IVF hydration
+- Urology consulted, recommend cystoscopy, L RGP/uretereal stent placement in 
+the am
+- NPO overnight for surgery
+- Start flomax (hold prozosin)
+- Empiric abx per urology with cefriaxone 
+- Monitory daily BMP
+
+#AKI on CKD (2/2 DM nephropathy per chart review)
+- Plan as above
+- mIVF hydration
+- hold lisinopril 
+
+#HTN
+- Continue home amlodipine and metoporolol
+- HOld ACEi 
+
+#DEPRESSION/PTSD
+- Continue Bupropion 150 mg BID, Divalproex 500 mg daily, and hold Prazosin 2 mg 
+  QHS.
+
+#Type 2 DM c/b nephropathy and retinopathy, last A1c 8.6 
+- Insulin sliding scale
+- Continue home NPH BID
+- Diabetic diet 
+
+FENGI
+- replete lytes 
+- mIVFs
+- NPO overnight
+
+#Full Code 
+ 
+ADVANCE DIRECTIVE STATUS:
+Does patient have Advance Directive? Yes. DPOA Wife 
+ 
+DEPRESSION/SUICIDE RISK SCREEN:
+Are you feeling hopeless about the present/future? No
+Do you CURRENTLY have thoughts of harming yourself? No
+ 
+Patient will be seen and evaluated under the supervision of Dr.Yamarik 
+
+

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AICD-10</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/mainpage.css') }}"/>
+</head>
+<body>
+
+<div class="main">
+    <div class="wrapper">
+        <div id="main-container">
+
+            <h3>Results</h3>
+
+            <ul class="collection">
+                {% for result in results %}
+
+                    <li class="collection-item">
+
+                        <span class="title collection-header">{{ result[0] }}</span>
+                        <p>
+                            {{ result[1] }}
+                        </p>
+                    </li>
+                {% endfor %}
+
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

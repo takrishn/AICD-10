@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AICD-10</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/mainpage.css') }}"/>
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+</head>
+<body>
+    <div class = "main"><div class = "wrapper">
+        <h3 id="header" class="center-align"><img src= "{{ url_for('static',filename='images/logo_banner_grey2.png') }}" style="position:relative; width:10em;"/></h3>
+        <div id="main-container" class="rounded-border">
+
+            <p id="landing_description">Upload your clinical text document below to generate relevant ICD codes based on our natural language processing and machine learning algorithms.</p>
+            <div id="file-upload" class="file-field input-field">
+              <div class="btn">
+                 <span>Browse</span>
+                 <input type = "file" />
+              </div>
+
+              <div class="file-path-wrapper">
+                 <input id="file-upload-text" class="file-path validate" type = "text"
+                    placeholder="Upload file" />
+              </div>
+            </div>
+
+            <a id="submit-button" class="waves-effect waves-light btn center-align">Generate ICD Codes</a>
+        </div>
+
+    </div></div>
+    <canvas></canvas>
+
+    <script>
+    const canvas = document.querySelector('canvas');
+    const ctx = canvas.getContext('2d');
+    const pixelRatio = window.devicePixelRatio;
+    let cw = canvas.width = window.innerWidth*pixelRatio;
+    let ch = canvas.height = window.innerHeight*pixelRatio;
+    canvas.style.width = `${cw/pixelRatio}px`;
+    canvas.style.height = `${ch/pixelRatio}px`;
+    ctx.scale(pixelRatio, pixelRatio);
+
+    let circles = [];
+
+    function findDistance(x1,x2,y1,y2){
+      return Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
+    }
+
+    function createCircle(){
+      circles.push({
+        x: Math.round(Math.random() * cw),
+        y: Math.round(Math.random() * ch),
+        vx: Math.round((Math.random() * 4 - 2)) / 8,
+        vy: Math.round((Math.random() * 4 - 2)) / 8
+      });
+
+      // Delete circles off canvas
+      circles.forEach((circle,index)=>{
+        if(circle.x < -100 || circle.x > cw + 100 || circle.y < -100 || circle.y > ch + 100) {
+          circles.splice(index,1);
+        }
+      });
+    }
+
+    function draw(){
+      ctx.clearRect(0, 0, cw, ch);
+
+      // Draw circles
+      circles.forEach((circle)=>{
+        ctx.fillStyle = '#1a9988';
+        ctx.beginPath();
+        ctx.arc(circle.x, circle.y, 2, 0, 2 * Math.PI);
+        ctx.fill();
+      });
+
+      // Draw Lines
+        circles.forEach((circle,index,array)=>{
+          array.forEach((item) => {
+            const distance = findDistance(item.x,circle.x,item.y,circle.y);
+            if(distance < 100){
+              ctx.beginPath();
+              ctx.moveTo(item.x,item.y);
+              ctx.lineTo(circle.x,circle.y);
+              ctx.strokeStyle = `rgba(26, 153, 136, ${1-(distance/100)})`;
+              ctx.stroke();
+            }
+          });
+        });
+
+      // Update circle position
+      circles = circles.map((circle)=>{
+        return {
+          x: circle.x + circle.vx,
+          y: circle.y + circle.vy,
+          vx:circle.vx,
+          vy:circle.vy
+        }
+      });
+
+      window.requestAnimationFrame(draw);
+
+    }
+
+    const dotsAtStart = Math.round(cw*ch/4500);
+    for(i=0;i<dotsAtStart;i++){createCircle();}
+    canvas.addEventListener('click', (e) =>{
+      circles.push({
+        x: e.offsetX,
+        y: e.offsetY,
+        vx: Math.round((Math.random() * 4 - 2)) / 8,
+        vy: Math.round((Math.random() * 4 - 2)) / 8
+      });
+    });
+    setInterval(createCircle,500);
+    window.requestAnimationFrame(draw);
+    </script>
+
+    <div id="wrapper">
+
+      <div id="title">
+        <h2>UNITED IN RESEARCH</h2>
+        <h3>Together we can make a difference in the world of academia
+        </h3>
+      </div>
+
+    </div>
+
+</body>
+</html>

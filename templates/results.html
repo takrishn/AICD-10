@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- <link rel="stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/results.css') }}"/> -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='results.cc') }}" />
+
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+</head>
+<body>
+    <!-- <div class = "main"><div class = "wrapper">
+        <div id="main-container">
+            <h3 id="header" class="center-align">AICD-10</h3>
+            <p id="landing_description">Upload your clinical text document below to generate relevant ICD codes based on our natural language processing and machine learning algorithms.</p>
+            <div id="file-upload" class="file-field input-field">
+              <div class="btn">
+                 <span>Browse</span>
+                 <input type = "file" />
+              </div>
+
+              <div class="file-path-wrapper">
+                 <input id="file-upload-text" class="file-path validate" type = "text"
+                    placeholder="Upload file" />
+              </div>
+            </div>
+
+            <a id="submit-button" class="waves-effect waves-light btn center-align">Generate ICD Codes</a>
+        </div>
+
+    </div></div> -->
+
+    <!-- PAGE HEADER  -->
+    <nav>
+      <div class="nav-wrapper">
+        <!-- <a href="#" class="brand-logo">AICD-10</a> -->
+        <a href="#" class="brand-logo"><link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/logo_banner.png') }}"/> </a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li>[[NAME OF DOCUMENT HERE]]</li>
+          <li><a class="waves-effect waves-light btn" href="../templates/main.html">New Document</a></li>
+        </ul>
+      </div>
+    </nav>
+
+
+    <div class="page_body modal-body row">
+    <!-- LEFT SIDE OF PAGE -->
+      <div class="page_left col-md-7">
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa et nulla placerat eleifend a et eros. Integer lacinia lacus quis diam laoreet vehicula. Etiam aliquam, nunc in commodo sollicitudin, neque augue interdum sem, non varius augue massa et nunc. Nullam molestie tempor est, non aliquet nunc ullamcorper a. Donec eu orci sed enim facilisis euismod. Sed sem arcu, suscipit ut semper quis, rhoncus vel eros. Vestibulum pharetra, sem eget consectetur tristique, urna quam pretium nisi, commodo viverra mauris turpis sed ligula. Sed scelerisque risus vel nisi hendrerit, nec varius elit mollis. Pellentesque non nibh viverra, posuere dui sit amet, porta nisl.
+
+                Nunc at leo quis neque ullamcorper varius. Nulla facilisi. Proin sollicitudin, nibh bibendum convallis eleifend, ligula nisi ullamcorper lacus, et ultrices massa risus vel lectus. Vivamus in elit metus. Nullam gravida enim at magna fringilla, in venenatis diam molestie. Duis id ipsum sed neque viverra pretium. Donec lobortis tincidunt risus, quis posuere elit molestie finibus. Cras efficitur dolor sit amet dolor euismod mattis. Maecenas volutpat auctor tempus. Nunc ac sapien vehicula, pharetra nibh ut, maximus nisi. Cras rhoncus diam nunc. Fusce id posuere ante. Etiam pharetra fringilla purus, et hendrerit massa mattis at.
+
+                Mauris sollicitudin, felis tincidunt sodales tempus, erat dui tincidunt orci, at sagittis eros metus at mi. Donec ut pharetra nisl. Aliquam urna nisl, eleifend nec dolor sit amet, tempus pretium dui. Donec in turpis convallis, laoreet purus in, eleifend libero. Morbi maximus et erat at pretium. Integer faucibus mollis tellus et porta. Curabitur interdum laoreet magna nec ullamcorper. Phasellus nec vehicula lorem, sit amet tincidunt lorem. Vestibulum quis aliquet eros. Maecenas sem nibh, blandit eu lobortis id, semper eu purus.
+
+                Mauris sit amet leo id justo euismod efficitur. Sed facilisis suscipit tortor et tristique. Fusce lobortis eros sed quam accumsan, vel viverra elit imperdiet. Mauris tincidunt tellus et tempor feugiat. Suspendisse dapibus faucibus ante, in lobortis eros. Cras id nunc est. Nulla pulvinar orci iaculis augue scelerisque, at vulputate diam suscipit. Fusce erat augue, hendrerit quis urna ut, efficitur fringilla turpis.
+
+                Phasellus pharetra at metus vel condimentum. Etiam vitae mi nec mauris faucibus finibus. Integer porttitor congue turpis at bibendum. Nullam ac commodo sapien, ut condimentum elit. Integer ut dictum tellus. Vivamus vitae placerat dolor, non commodo urna. Vestibulum vitae dolor quis metus porta efficitur. Etiam vulputate commodo lorem, venenatis blandit metus.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu massa et nulla placerat eleifend a et eros. Integer lacinia lacus quis diam laoreet vehicula. Etiam aliquam, nunc in commodo sollicitudin, neque augue interdum sem, non varius augue massa et nunc. Nullam molestie tempor est, non aliquet nunc ullamcorper a. Donec eu orci sed enim facilisis euismod. Sed sem arcu, suscipit ut semper quis, rhoncus vel eros. Vestibulum pharetra, sem eget consectetur tristique, urna quam pretium nisi, commodo viverra mauris turpis sed ligula. Sed scelerisque risus vel nisi hendrerit, nec varius elit mollis. Pellentesque non nibh viverra, posuere dui sit amet, porta nisl.
+
+                Nunc at leo quis neque ullamcorper varius. Nulla facilisi. Proin sollicitudin, nibh bibendum convallis eleifend, ligula nisi ullamcorper lacus, et ultrices massa risus vel lectus. Vivamus in elit metus. Nullam gravida enim at magna fringilla, in venenatis diam molestie. Duis id ipsum sed neque viverra pretium. Donec lobortis tincidunt risus, quis posuere elit molestie finibus. Cras efficitur dolor sit amet dolor euismod mattis. Maecenas volutpat auctor tempus. Nunc ac sapien vehicula, pharetra nibh ut, maximus nisi. Cras rhoncus diam nunc. Fusce id posuere ante. Etiam pharetra fringilla purus, et hendrerit massa mattis at.
+
+                Mauris sollicitudin, felis tincidunt sodales tempus, erat dui tincidunt orci, at sagittis eros metus at mi. Donec ut pharetra nisl. Aliquam urna nisl, eleifend nec dolor sit amet, tempus pretium dui. Donec in turpis convallis, laoreet purus in, eleifend libero. Morbi maximus et erat at pretium. Integer faucibus mollis tellus et porta. Curabitur interdum laoreet magna nec ullamcorper. Phasellus nec vehicula lorem, sit amet tincidunt lorem. Vestibulum quis aliquet eros. Maecenas sem nibh, blandit eu lobortis id, semper eu purus.
+
+                Mauris sit amet leo id justo euismod efficitur. Sed facilisis suscipit tortor et tristique. Fusce lobortis eros sed quam accumsan, vel viverra elit imperdiet. Mauris tincidunt tellus et tempor feugiat. Suspendisse dapibus faucibus ante, in lobortis eros. Cras id nunc est. Nulla pulvinar orci iaculis augue scelerisque, at vulputate diam suscipit. Fusce erat augue, hendrerit quis urna ut, efficitur fringilla turpis.
+
+                Phasellus pharetra at metus vel condimentum. Etiam vitae mi nec mauris faucibus finibus. Integer porttitor congue turpis at bibendum. Nullam ac commodo sapien, ut condimentum elit. Integer ut dictum tellus. Vivamus vitae placerat dolor, non commodo urna. Vestibulum vitae dolor quis metus porta efficitur. Etiam vulputate commodo lorem, venenatis blandit metus.
+            </p>
+
+
+    <!-- RIGHT SIDE OF PAGE -->
+      </div>
+      <div class="page_right col-md-5">
+
+          <form action="#">
+              <!-- DROPDOWN MENU -->
+              <!-- <div class="height-90">
+                  <label>
+                    <input type="checkbox" class="filled-in" checked="checked" />
+                    <span>Filled in</span>
+                  </label>
+
+              </div> -->
+              <button class="accordion waves-effect waves-light">Section 1</button>
+                <div class="panel">
+                    <label>
+                      <input type="checkbox" class="filled-in"  />
+                      <span>10.01 Dying from rabies</span>
+                    </label>
+                    <label>
+                      <input type="checkbox" class="filled-in"  />
+                      <span>10.02 Dying from low blood cell count</span>
+                    </label>
+                </div>
+
+                <button class="accordion waves-effect waves-light">Section 2</button>
+                <div class="panel">
+                  <p>Lorem ipsum...</p>
+                </div>
+
+                <button class="accordion waves-effect waves-light">Section 3</button>
+                <div class="panel">
+                  <p>Lorem ipsum...</p>
+                </div>
+
+
+          </form>
+      </div>
+    </div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
+
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
+  });
+}
+</script>
+</body>
+</html>
